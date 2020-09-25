@@ -3,6 +3,6 @@ setting up the react-app
 
 # steps to run the program
   
-  git clone the given link
-  npm install
-  npm start
+#  git clone https://github.com/PawadeGanesh/Notification-widget-app.git, 
+#  npm install, 
+#  npm start
